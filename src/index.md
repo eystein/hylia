@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Eystein Mack Alnæs
+metaTitle: 'Ux oriented front end developer '
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
