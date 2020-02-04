@@ -4,7 +4,7 @@ title: Eystein Mack Alnæs - ta da!
 metaTitle: 'Ux oriented front end developer '
 postsHeading: Latest posts
 archiveButtonText: See all posts
-bannerImage: images/TEDxChamonix-Imagine-home-page-key-image-181003-03.jpeg
+bannerImage: images/Screen-Shot-2018-10-01-at-19.57.36-614x637.png
 socialImage: ''
 ---
 ## Interaction Designer and Frontend Web Developer
